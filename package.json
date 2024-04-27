@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "displayName": "Simple Finite State Controller",
   "description": "This is a simple yet flexible state machine controller written in C# for Unity. It allows you to easily manage the state of your game objects or entities, making it a powerful tool for building complex behavior-driven systems.",
-  "unity": "2020.3",
   "keywords": [
     "Finite state machine",
     "state machine",
