@@ -1,6 +1,6 @@
 using System;
 
-namespace SahraCore.Core.FSM
+namespace SahraCore.FSM
 {
     public class FsmNode<E> where E : Enum
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace SahraCore.Core.FSM
+namespace SahraCore.FSM
 {
 
     public class FsmController<E> : IFsmController<E> where E :  Enum

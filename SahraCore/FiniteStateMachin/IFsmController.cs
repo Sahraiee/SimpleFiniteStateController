@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace SahraCore.Core.FSM
+namespace SahraCore.FSM
 {
     public interface IFsmController<E> where E : Enum
     {
