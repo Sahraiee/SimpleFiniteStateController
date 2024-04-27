@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "com.sahracore.simplefinitestatecontroller": "https://github.com/Sahraiee/SimpleFiniteStateController.git"
+  }
+}
